@@ -1,5 +1,5 @@
 # MyPortfolio
-# Software Test Engineer Portfolio
+# Software Test Engineer
 
 Hi, I'm Dhanush Anand, a passionate Software Test Engineer/QA with 3+ year expertise in Automation and Manual Testing.
 

@@ -1,14 +1,14 @@
 # MyPortfolio
 # Software Test Engineer Portfolio
 
-Hi, I'm Dhanush Anand, a passionate Software Test Engineer with 3+ year expertise in automation, manual, and performance testing.
+Hi, I'm Dhanush Anand, a passionate Software Test Engineer/QA with 3+ year expertise in Automation and Manual Testing.
 
 ## Skills
-- **Automation Testing**: Selenium, TestNG, JUnit
+- **Automation Testing**: Selenium, TestNG, JUnit, 
 - **API Testing**: Postman, RestAssured
 - **Performance Testing**: JMeter
 - **Programming**: C, Java
-- **CI/CD**: Jenkins, GitHub Actions
+- **CI/CD**: Jenkins
 
 ## Projects
 

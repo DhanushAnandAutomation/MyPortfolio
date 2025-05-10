@@ -16,4 +16,4 @@ Hi, I'm Dhanush Anand, a passionate Software Test Engineer/QA with 3+ year exper
 
 ## Contact
 - Email: dhanushanand@outlook.com
-- LinkedIn: [[[Your LinkedIn](https://www.linkedin.com/in/dhanushanand)](#)]
+- LinkedIn: [[https://www.linkedin.com/in/dhanushanand](https://www.linkedin.com/in/dhanushanand)]

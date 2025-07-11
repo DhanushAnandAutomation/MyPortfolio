@@ -12,7 +12,7 @@ Hi, I'm Dhanush Anand, a passionate Software Test Engineer/QA with 3+ year exper
 
 ## Projects
 - Introduction-to-RestAssurred: [Introduction-to-RestAssurred](https://github.com/DhanushAnandAutomation/Introduction-to-RestAssurred)
-- Introduction-to-Selenium: [Introduction-to-Selenium](https://github.com/DhanushAnandAutomation/BasicsOfSelenium)
+- Introduction-to-Selenium: [Selenium Basics to Advanced](https://github.com/DhanushAnandAutomation/seleniumLearning)
 
 
 ## Contact

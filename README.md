@@ -11,9 +11,9 @@ Hi, I'm Dhanush Anand, a passionate Software Test Engineer/QA with 3+ year exper
 - **CI/CD**: Jenkins
 
 ## Projects
-- Introduction-to-RestAssurred: [Introduction-to-RestAssurred](https://github.com/DhanushAnandAutomation/Introduction-to-RestAssurred)
-- Introduction-to-Selenium: [Selenium Basics](https://github.com/DhanushAnandAutomation/seleniumLearning)
 - Advanced Selenium: [Advanced Selenium](https://github.com/DhanushAnandAutomation/AdvancedSelenium)
+- Introduction-to-RestAssurred: [Introduction-to-RestAssurred](https://github.com/DhanushAnandAutomation/Introduction-to-RestAssurred)
+
 
 
 ## Contact

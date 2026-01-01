@@ -4,14 +4,14 @@
 Hi, I'm Dhanush Anand, a passionate Software Test Engineer/QA with 3+ year expertise in Automation and Manual Testing.
 
 ## Skills
-- **Automation Testing**: Selenium, TestNG, JUnit, 
+- **Automation Testing**: Selenium, TestNG, Maven 
 - **API Testing**: Postman, RestAssured
 - **Performance Testing**: JMeter
 - **Programming**: C, Java
 - **CI/CD**: Jenkins
 
 ## Projects
-- Advanced Selenium: [Advanced Selenium](https://github.com/DhanushAnandAutomation/AdvancedSelenium)
+- Advanced Selenium: [Advanced Selenium](https://github.com/DhanushAnandAutomation/AdvancedSeleniumConcepts)
 - Introduction-to-RestAssurred: [Introduction-to-RestAssurred](https://github.com/DhanushAnandAutomation/Introduction-to-RestAssurred)
 
 
